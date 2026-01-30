@@ -1,0 +1,8 @@
+{
+  "_comment": "项目元数据配置文件。定义应用名称、描述以及需要请求的硬件权限（如摄像头用于自拍模拟）。",
+  "name": "Nana (Lite) - Digital Roommate",
+  "description": "A web-based AI companion with simulated free will, a distinct persona, and autonomous web browsing capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
