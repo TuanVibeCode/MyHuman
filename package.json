@@ -1,0 +1,19 @@
+
+{
+  "name": "vc1630",
+  "version": "0.9.0",
+  "description": "Digital Roommate with Simulated Free Will and WeChat-like Interface",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "ai",
+    "digital-human",
+    "gemini",
+    "react",
+    "roleplay"
+  ],
+  "author": "",
+  "license": "MIT"
+}
